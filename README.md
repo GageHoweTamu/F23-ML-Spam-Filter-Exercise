@@ -1,4 +1,4 @@
-# spamfiltercode
+# email spam filter
 
 - **Description**: Exercise for the spam filter workshop.
 - **Dependencies**: Run `pip install -r reqs.txt` to install all necessary dependencies.
